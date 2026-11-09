@@ -96,3 +96,8 @@ I built this with Claude. I set the requirements and made the design calls: flag
 ## What I learned
 
 The instructions were never the main problem. The skill worked every time it loaded; it just wasn't loading on the questions that needed it most. I spent two rounds improving wording before testing whether Claude was even reading it. Next time, the first thing I'll check is whether the thing I'm fixing is actually running.
+
+## License and credit
+
+Licensed under [your choice of license]. If you use or adapt this skill, please credit:
+**prompt-check by Sarah Vine** (https://github.com/vinesc1234/prompt-check-skill)
